@@ -1,0 +1,10 @@
+header {
+    background-color: rgb(87, 46, 126);
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
